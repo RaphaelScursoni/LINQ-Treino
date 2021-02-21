@@ -1,0 +1,12 @@
+C:\Users\amora\source\repos\LinqTreino1\LinqTreino1\bin\Debug\netcoreapp3.1\LinqTreino1.exe
+C:\Users\amora\source\repos\LinqTreino1\LinqTreino1\bin\Debug\netcoreapp3.1\LinqTreino1.deps.json
+C:\Users\amora\source\repos\LinqTreino1\LinqTreino1\bin\Debug\netcoreapp3.1\LinqTreino1.runtimeconfig.json
+C:\Users\amora\source\repos\LinqTreino1\LinqTreino1\bin\Debug\netcoreapp3.1\LinqTreino1.runtimeconfig.dev.json
+C:\Users\amora\source\repos\LinqTreino1\LinqTreino1\bin\Debug\netcoreapp3.1\LinqTreino1.dll
+C:\Users\amora\source\repos\LinqTreino1\LinqTreino1\bin\Debug\netcoreapp3.1\LinqTreino1.pdb
+C:\Users\amora\source\repos\LinqTreino1\LinqTreino1\obj\Debug\netcoreapp3.1\LinqTreino1.AssemblyInfoInputs.cache
+C:\Users\amora\source\repos\LinqTreino1\LinqTreino1\obj\Debug\netcoreapp3.1\LinqTreino1.AssemblyInfo.cs
+C:\Users\amora\source\repos\LinqTreino1\LinqTreino1\obj\Debug\netcoreapp3.1\LinqTreino1.csproj.CoreCompileInputs.cache
+C:\Users\amora\source\repos\LinqTreino1\LinqTreino1\obj\Debug\netcoreapp3.1\LinqTreino1.dll
+C:\Users\amora\source\repos\LinqTreino1\LinqTreino1\obj\Debug\netcoreapp3.1\LinqTreino1.pdb
+C:\Users\amora\source\repos\LinqTreino1\LinqTreino1\obj\Debug\netcoreapp3.1\LinqTreino1.genruntimeconfig.cache
